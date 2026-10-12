@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-trace-span-latency-and-bottleneck-profiler-skill",
+  "version": "1.0.0",
+  "description": "Profiles hierarchical OpenTelemetry agent execution spans to pinpoint latency bottlenecks and infinite tool retry loops",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
